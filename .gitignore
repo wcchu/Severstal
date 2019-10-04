@@ -1,1 +1,6 @@
 data/
+.pytest_cache/
+.vscode/
+saved_model/
+.ipynb_checkpoints/
+env/
