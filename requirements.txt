@@ -10,5 +10,5 @@ seaborn
 library
 yapf
 opencv-python
-tensorflow==2.0.0-beta1
+tensorflow==2.1.2
 testresources
